@@ -1,6 +1,6 @@
 Name:		texlive-tkzexample
 Version:	63908
-Release:	1
+Release:	2
 Summary:	Package for the documentation of all tkz-* packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkzexample
