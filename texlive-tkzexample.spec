@@ -3,7 +3,7 @@ Version:	63908
 Release:	2
 Summary:	Package for the documentation of all tkz-* packages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkzexample
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tkzexample
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkzexample.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkzexample.doc.r%{version}.tar.xz
